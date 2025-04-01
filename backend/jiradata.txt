@@ -1,0 +1,155 @@
+[
+  {
+    "id": "JIRA-104",
+    "key": "PROJ-104",
+    "fields": {
+      "summary": "Optimize database queries",
+      "description": "Improve the performance of database queries for faster load times.",
+      "status": {
+        "name": "In Progress"
+      },
+      "priority": {
+        "name": "High"
+      },
+      "assignee": {
+        "name": "Eve Adams"
+      },
+      "reporter": {
+        "name": "Frank Green"
+      },
+      "created": "2025-03-05T09:00:00Z",
+      "updated": "2025-03-06T10:00:00Z",
+      "labels": ["performance", "backend"],
+      "comments": [
+        {
+          "author": "Frank Green",
+          "body": "This is critical for the next release.",
+          "created": "2025-03-05T10:00:00Z"
+        },
+        {
+          "author": "Eve Adams",
+          "body": "Currently optimizing the queries.",
+          "created": "2025-03-05T11:00:00Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "JIRA-105",
+    "key": "PROJ-105",
+    "fields": {
+      "summary": "Redesign homepage",
+      "description": "Create a new design for the homepage to improve user engagement.",
+      "status": {
+        "name": "To Do"
+      },
+      "priority": {
+        "name": "Medium"
+      },
+      "assignee": {
+        "name": "Grace Lee"
+      },
+      "reporter": {
+        "name": "Hank Brown"
+      },
+      "created": "2025-03-06T08:00:00Z",
+      "updated": "2025-03-06T08:00:00Z",
+      "labels": ["design", "frontend"],
+      "comments": []
+    }
+  },
+  {
+    "id": "JIRA-106",
+    "key": "PROJ-106",
+    "fields": {
+      "summary": "Fix email notifications",
+      "description": "Resolve issues with email notifications not being sent.",
+      "status": {
+        "name": "Done"
+      },
+      "priority": {
+        "name": "High"
+      },
+      "assignee": {
+        "name": "Ivy Chen"
+      },
+      "reporter": {
+        "name": "Jack White"
+      },
+      "created": "2025-03-07T07:00:00Z",
+      "updated": "2025-03-08T09:00:00Z",
+      "labels": ["bug", "urgent"],
+      "comments": [
+        {
+          "author": "Jack White",
+          "body": "This issue is affecting all users.",
+          "created": "2025-03-07T08:00:00Z"
+        },
+        {
+          "author": "Ivy Chen",
+          "body": "Issue has been resolved.",
+          "created": "2025-03-08T09:00:00Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "JIRA-107",
+    "key": "PROJ-107",
+    "fields": {
+      "summary": "Add user analytics",
+      "description": "Implement user analytics to track user behavior on the platform.",
+      "status": {
+        "name": "In Progress"
+      },
+      "priority": {
+        "name": "Medium"
+      },
+      "assignee": {
+        "name": "Kevin Brown"
+      },
+      "reporter": {
+        "name": "Laura Green"
+      },
+      "created": "2025-03-08T06:00:00Z",
+      "updated": "2025-03-09T07:00:00Z",
+      "labels": ["feature", "analytics"],
+      "comments": [
+        {
+          "author": "Laura Green",
+          "body": "This will help us understand user engagement better.",
+          "created": "2025-03-08T07:00:00Z"
+        },
+        {
+          "author": "Kevin Brown",
+          "body": "Currently working on the implementation.",
+          "created": "2025-03-08T08:00:00Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "JIRA-108",
+    "key": "PROJ-108",
+    "fields": {
+      "summary": "Upgrade server infrastructure",
+      "description": "Upgrade the server infrastructure to handle increased traffic.",
+      "status": {
+        "name": "To Do"
+      },
+      "priority": {
+        "name": "High"
+      },
+      "assignee": {
+        "name": "Mia Davis"
+      },
+      "reporter": {
+        "name": "Nina Brown"
+      },
+      "created": "2025-03-09T05:00:00Z",
+      "updated": "2025-03-09T05:00:00Z",
+      "labels": ["infrastructure", "backend"],
+      "comments": []
+    }
+  }
+]
